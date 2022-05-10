@@ -6,8 +6,7 @@
 | `-` | Subtraction | Subtracts one number from another | `-=` |
 | `*` | Multiplication | Multiplies two numbers together | `*=` |
 | `/` | Division | Divides one number by another | `/=` |
-| `//` | Floor Division | Divides one number by another and removes 
-the remainder from the result | `//=` |
+| `//` | Floor Division | Divides one number by another and removes the remainder from the result | `//=` |
 | `**` | Exponent | Raises one number to the power of another | `**=` |
 | `%` | Modulus | Returns the remainder of one number divided by another | `%=` |
 
