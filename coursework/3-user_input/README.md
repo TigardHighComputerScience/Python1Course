@@ -1,7 +1,7 @@
 # User Input
 
 Just like printing to console python makes taking user input quick and easy.
-To take user input you use the `print` function
+To take user input you use the `input` function.
 
 ```python3
 user_input = input("Enter your name: ")
