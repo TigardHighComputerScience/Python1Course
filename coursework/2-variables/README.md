@@ -41,4 +41,4 @@ print("My int is of type: ", type(my_int))
 print("My string is of type: ", type(my_string))
 ```
 
-<sub>[Take me to the next page]()</sub>
+<sub>[Take me to the next section]()</sub>
