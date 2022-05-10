@@ -41,4 +41,4 @@ print("My int is of type: ", type(my_int))
 print("My string is of type: ", type(my_string))
 ```
 
-<sub>[Take me to the next section]()</sub>
+<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1References/tree/main/coursework/3-user_input)</sub>
