@@ -10,6 +10,9 @@ y = 2
 
 print("The sum of x and y is:", x + y)
 ```
+```
+The sum of x and y is: 7
+```
 
 This works just like you would expect. You can also take `x + y` and assign it
 to a new variable.
@@ -22,6 +25,9 @@ z = x + y
 
 print("The sum of x and y is:", z)
 ```
+```
+The sum of x and y is: 7
+```
 
 If you wanted to add the value of `y` to the value of `x` you could do something
 like this
@@ -33,6 +39,9 @@ y = 2
 x = x + y
 
 print("The sum of x and y is:", x)
+```
+```
+The sum of x and y is: 7
 ```
 
 And just like that the value of `x` is now the value of `x + y` or `7`.
@@ -47,6 +56,9 @@ y = 2
 x += y
 
 print("The sum of x and y is:", x)
+```
+```
+The sum of x and y is: 7
 ```
 
 This is the preferred way to do this because of two main reasons.

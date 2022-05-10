@@ -14,6 +14,10 @@ used later.
 print("My int holds the value of: ", my_int)
 print("My string holds the value of: ", my_string)
 ```
+```
+My int holds the value of:  5
+My string holds the value of:  Hello
+```
 
 Here is a list of some basic types:
 - `int`
@@ -39,6 +43,10 @@ function.
 ```python3
 print("My int is of type: ", type(my_int))
 print("My string is of type: ", type(my_string))
+```
+```
+My int is of type:  <class 'int'>
+My string is of type:  <class 'str'>
 ```
 
 <sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1References/tree/main/coursework/3-user_input)</sub>
