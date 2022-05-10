@@ -33,7 +33,7 @@ DONT_CHANGE_THIS_INT = 5
 By default this does not prevent you from changing the variable, only indicating
 and reminding you not to.
 
-If you are ever woundering what type a variable is you can use the `type` 
+If you are ever wondering what type a variable is you can use the `type` 
 function.
 
 ```python3
