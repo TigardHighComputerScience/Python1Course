@@ -71,8 +71,8 @@ that each do different things.
 7. `%`: Modulus
 
 You will learn what each one does and how to use them as you gain more and
-more experience with programming. Check [this]() 
-reference table for what all of the operators do.
+more experience with programming. Check [this](https://github.com/TigardHighComputerScience/Python1References/blob/main/coursework/4-math_operators/operator_reference_table.md) 
+reference table for what all of the math operators do.
 
 It's important to note that all of these operators have a 
 `shorthand assignment` form.
