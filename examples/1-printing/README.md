@@ -20,3 +20,5 @@ print(x, my_list)
 
 You don't need to know what those are at this point just understand that
 the print function will take almost anything and print it to the console.
+
+<sub>[Take me to the next section]()</sub>
