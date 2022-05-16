@@ -8,7 +8,7 @@ For example we could concatenate two strings together using the `+` operator.
 ```python3
 my_string = "Hello"
 my_other_string = " World"
-g
+
 my_string = my_string + my_other_string
 print(my_string)
 ```
