@@ -1,2 +1,3 @@
-# Python 1 References
-Course work for python one at tigard high
+# Python 1 Tigard High Course
+
+- ### [References](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references)
