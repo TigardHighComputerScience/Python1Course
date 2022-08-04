@@ -49,4 +49,4 @@ My int is of type:  <class 'int'>
 My string is of type:  <class 'str'>
 ```
 
-<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1References/tree/main/coursework/3-user_input)</sub>
+<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/3-user_input)</sub>
