@@ -1,5 +1,5 @@
 # Code Comments
-q
+
 Comments in code is simply plain text that the computer skips when looking at code. Comments are useful for writing notes for yourself or explanting what a piece of code does.
 
 ```python3
