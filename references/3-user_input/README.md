@@ -27,4 +27,4 @@ Be careful, if you want a number and the user enters a string you will get
 an error message, you will learn how to account for this in the `exceptions` 
 section of this course.
 
-<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/4-math_operators)</sub>
+<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/4-math_operators).</sub>
