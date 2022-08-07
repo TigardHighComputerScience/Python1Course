@@ -69,10 +69,10 @@ The computer can preform this shorthand calculation faster because `x` only
 needs to be referenced once. In the previous example `x` was referenced twice.
 
 This will save a insignificant amount of time for the computer, as it takes
-essentialy no time to access a variable but it is important to mention it none 
+essentially no time to access a variable but it is important to mention it none 
 the less.
 
-Python, just like any other programmnig language, has loads of math operators 
+Python, just like any other programming language, has loads of math operators 
 that each do different things.
 1. `+`: Addition
 2. `-`: Subtraction
