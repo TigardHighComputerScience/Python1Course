@@ -62,4 +62,4 @@ print(my_string * 3)
 Hello Hello Hello
 ```
 
-<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/6-comments)</sub>
+<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/6-comments).</sub>
