@@ -97,4 +97,4 @@ It's important to note that all of these operators have a
 6. `**=`: Exponent and Assignment
 7. `%=`: Modulus and Assignment
 
-<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/5-string_operators)</sub>
+<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/5-string_operators).</sub>
