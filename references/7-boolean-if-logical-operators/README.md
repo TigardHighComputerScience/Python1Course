@@ -80,7 +80,7 @@ else:
 
 Logical Operators compare the left value to the right value, returning a `True` or a `False`.
 
-Visit the [Logical Operator Reference Table]() for all of the logical operators.
+Visit the [Logical Operator Reference Table](https://github.com/TigardHighComputerScience/Python1Course/blob/main/references/7-boolean-if-logical-operators/logical_operators_reference_table.md) for all of the logical operators.
 
 The main feature of logical operators is in if statements such as the one above, however you can also use them to evaluate the value of a `bool`.
 
