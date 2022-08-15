@@ -3,7 +3,7 @@
 Please keep in mind that this reference table was designed for Python, however many programming languages share this same syntax.
 
 | Operator | Name | Description | Alternative Syntax |
-| - | - | - |
+| --------- | -------- | ------- | ------ |
 | `and` | And | Returns `True` if both values are `True` | `&&` |
 | `or` | Or | Returns `True` if either value is `True` | `||` |
 | `not` | Not | Returns the inverse of the value following it | `!` |
