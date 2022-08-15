@@ -3,7 +3,7 @@
 Please keep in mind that this reference table was designed for Python, however many programming languages share this same syntax.
 
 | Operator | Name | Description | Alternative Syntax |
-|-|-|-|
+| - | - | - |
 | `and` | And | Returns `True` if both values are `True` | `&&` |
 | `or` | Or | Returns `True` if either value is `True` | `||` |
 | `not` | Not | Returns the inverse of the value following it | `!` |
@@ -21,6 +21,6 @@ Exactly like the `shorthand assignment` operators the logical comparison operato
 The following are more complex logical operators specific to Python. More information can be found about them later in this course.
 
 | Operator | Name | Description |
-|-|-|-|
+| - | - | - |
 | `is` | Is | Returns `True` if the left value is the same as the right value | Na |
 | `in` | In | Returns `True` if the left value is in the right value |
