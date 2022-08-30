@@ -59,7 +59,7 @@ else:
 Second time is the charm
 ```
 
-Notice how the `else` keyword is only executed if all above `if` or `elif` statements are false.
+Notice how the `else` keyword is only executed if all above `if` and `elif` statements are false.
 
 ## Logical Operators
 
