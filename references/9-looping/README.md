@@ -28,6 +28,7 @@ print(type(my_range))
 
 Looping is done using the `for` and `in` key
 
+```python3
 # Range of numbers between 1 and 9
 my_range = range(1, 10)
 
