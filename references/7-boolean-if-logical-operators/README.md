@@ -94,4 +94,4 @@ print(my_bool)
 True
 ```
 
-<sub>[Take me to the next section]()</sub>
+<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/8-floating-point-numbers)</sub>
