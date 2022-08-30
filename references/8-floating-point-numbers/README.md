@@ -68,4 +68,4 @@ print(my_string)
 1.4
 ```
 
-<sub>[Take me to the next section]()</sub>
+<sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/9-looping)</sub>
