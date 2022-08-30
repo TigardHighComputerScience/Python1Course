@@ -5,7 +5,7 @@ Please keep in mind that this reference table was designed for Python, however m
 | Operator | Name | Description | Alternative Syntax |
 |-|-|-|-|
 | `and` | And | Returns `True` if both values are `True` | `&&` |
-| `or` | Or | Returns `True` if either value is `True` | `||` |
+| `or` | Or | Returns `True` if either value is `True` | `\|\|` |
 | `not` | Not | Returns the inverse of the value following it | `!` |
 | `==` | Equal | Returns `True` if the values are equal | Na |
 | `>` | Greater Than | Returns `True` if the left value is greater than the right value | Na |
