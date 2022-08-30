@@ -22,7 +22,7 @@ Basic tips for writing better comments:
 
 - Use comments to explain what code does NOT how it does what it does.
 - Comments should not duplicate code. If the code explains it's self then it explains it's self.
-- If you can't write a good comment the problem may be in the code.
+- If you can't write a good comment then problem may be in the code.
 - Comments should follow proper grammar rules and end with a period.
 
 <sub>[Take me to the next section](https://github.com/TigardHighComputerScience/Python1Course/tree/main/references/7-boolean-if-logical-operators).</sub>
