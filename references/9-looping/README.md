@@ -62,7 +62,7 @@ for x in range(1, 4):
 1
 2
 3
-```
+```psl
 
 The `for` loop can also be used to loop through a list.
 
